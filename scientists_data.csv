@@ -1,0 +1,503 @@
+Surname,#Awards,Education
+Khan,3,"Mobile Cloud Computing, Cybersecurity, IoT"
+Aalst,3,"business process management, process mining, Petri nets"
+Aaronson,1,quantum computingandcomplexity theory
+Abebe,2,"algorithms, artificial intelligence"
+Abelson,1,intersection of computing and teaching
+Abiteboul,1,database theory
+Abramsky,1,game semantics
+Adleman,2,"RSA, DNA computing"
+Agrawal,1,polynomial-timeprimality testing
+Ahn,1,human-based computation
+Aho,2,"compilers book,  the 'a' inAWK"
+Allen,1,compiler optimization
+Amdahl,2,"supercomputerdeveloper, Amdahl Corporationfounder"
+Anderson,1,volunteer computing
+Anthony,1,natural user interfaces
+Appel,1,compiler of text books
+Aragon,2,"inventedtreap,  human-centered data science"
+Arden,4,"programming language compilers (GAT, Michigan Algorithm Decoder(MAD)),  virtual memory architecture, Michigan Terminal System(MTS)"
+Arora,1,PCP theorem
+Asprey,1,established the computer science curriculum atVassar College
+Atanasoff,2,"computer pioneer,  creator of Atanasoff Berry Computer (ABC)"
+Atre,1,database theory
+Bachman,2,"American computer scientist,  known forIntegrated Data Store"
+Backhouse,3,"mathematics ofcomputer programconstruction, algorithmicproblem solving, ALGOL"
+Backus,3,"FORTRAN, Backus–Naur form,  first complete compiler"
+Bacon,2,"programming languages,  garbage collection"
+Barr,1,SAS System
+Bauer,5,"Stack (data structure), Sequential Formula Translation, ALGOL, software engineering, Bauer–Fike theorem"
+Bayer,1,B-tree
+Bellovin,1,network security
+Berners-Lee,1,World Wide Web
+Bernstein,2,"qmail,  software as protected speech"
+Blaauw,1,one of the principal designers of the IBMSystem 360line of computers
+Blum,1,National Security Agency
+Blum,1,complexity
+Blum,1,cryptography
+Boehm,2,"software engineering economics,  spiral development"
+Bonwick,1,inventedslab allocationandZFS
+Booch,2,"Unified Modeling Language, Object Management Group"
+Boole,1,Boolean logic
+Booth,1,developed the firstrotating drum storage device
+Booth,1,developed the firstassembly language
+Bos,1,Cascading Style Sheets
+Botvinnik,3,"World Chess Champion,  computer scientist and electrical engineer,  pioneered earlyexpert systemAI andcomputer chess"
+Bowen,2,"Z notation, formal methods"
+Bourne,2,"Bourne shell,  portableALGOL 68Ccompiler"
+Boyer,2,"string searching, ACL2 theorem prover"
+Brandenburg,1,Mainmp3contributor
+Breed,3,"implementation of Iverson Notation (APL),  co-developedAPL\360, Scientific Time Sharing Corporationcofounder"
+Bresenham,2,"early computer-graphics contributions,  includingBresenham's algorithm"
+Brin,1,co-founder ofGoogle
+Brown,2,"unified memory architecture, binary compatibility"
+Brinkkemper,1,methodology of product software development
+Brooks,4,"System 360, OS/360, The Mythical Man-Month, No Silver Bullet"
+Burnett,3,"visual programming languages, end-user software engineering,  andgender-inclusive software"
+Butler,1,Event-B
+Gil,1,cryptography
+Camp,1,wireless computing
+Campbell-Kelly,1,history of computing
+Cantrill,1,inventedDTrace
+Cardelli,1,
+Carmack,1,codevelopedDoom
+Catmull,1,computer graphics
+Cerf,2,"Internet, TCP/IP"
+Cailliau,1,Belgian computer scientist
+Chaochen,1,duration calculus
+Chen,3,"entity-relationship model, data modeling, conceptual model"
+Chiariglione,1,founder ofMPEG
+Chou,1,computer scientist and activist
+Church,2,"mathematics of combinators, lambda calculus"
+Ciaramella,2,"speech recognition,  patent informatics"
+Clarke,1,model checking
+Cocke,1,RISC
+Cohen,1,computer science professor
+Coldwater,1,computer security
+Colton,1,computational creativity
+Colmerauer,1,Prolog
+Comer,1,Xinu
+Compton,1,Ripple Down Rules
+Conway,3,"CORC, CUPL,  andPL/Clanguages and dialects; programming textbooks"
+Cormack,1,co-inventeddynamic Markov compression
+Cook,1,NP-completeness
+Cooley,1,Fast Fourier transform(FFT)
+Cooper,1,open-source software
+Cosper,1,open-source software
+Cousot,1,abstract interpretation
+Cox,1,digital watermarking
+Cray,2,"Cray Research, supercomputer"
+Cristianini,3,"machine learning,  pattern analysis, artificial intelligence"
+Crowcroft,1,networking
+Culler,3,"interactive computing,  computer graphics,  high performance computing"
+Dadda,1,designer of theDadda multiplier
+Dahl,2,"Simula, object-oriented programming"
+Dahl,1,founder ofnode.jsproject
+Dam,2,"computer graphics, hypertext"
+Das,6,"Wireless Networks, Mobile Computing, Vehicular ad hoc network, Sensor Networks, Mesh networking, Wireless ad hoc network"
+Daswani,4,"computer security,  co-founder and co-director of Stanford Advanced Computer Security Program,  co-founder of Dasient (acquired by Twitter),  former chief information security of LifeLock and Symantec's Consumer Business Unit"
+Date,1,proponent ofdatabaserelational model
+Davis,1,creator ofTempleOS
+Dean,3,"Bigtable, MapReduce, Spannerof Google"
+Demaine,1,computational origami
+DeMillo,3,"computer security, software engineering, educational technology"
+Denning,1,computer security
+Denning,2,"identified the use of anoperating system'sworking setand balance set,  President ofACM"
+Dertouzos,1,Director ofMassachusetts Institute of Technology(MIT) Laboratory for Computer Science (LCS) from 1974 to 2001
+Dewar,5,"IFIP WG 2.1member, ALGOL 68,  chairperson;AdaCorecofounder,  president,  CEO"
+Dham,1,P5Pentiumprocessor
+Dijkstra,5,"algorithms, Dijkstra's algorithm, Go To Statement Considered Harmful, semaphore (programming), IFIP WG 2.1member"
+Dillon,4,"DragonFly BSDwithLWKT, vkernelOS-level virtualisation, file systems:HAMMER1, HAMMER2"
+Dix,1,wrote important university level textbook onhuman–computer interaction
+Dongarra,1,linear algebrahigh performance computing(HCI)
+Dorigo,1,ant colony optimization
+Dourish,1,human computer interaction
+Dumais,1,information retrieval
+Dunkels,4,"Contiki, lwIP, uIP, protothreads"
+Dunn,2,"founding dean of Indiana University School of Informatics,  information based logics especiallyrelevance logic"
+Dustdar,3,"Distributed Systems,  TU Wien,  Austria"
+Eades,1,graph drawing
+Ebbinkhuijsen,1,COBOL
+Eckert,1,ENIAC
+Edelman,6,"Edelman's Law,  stochastic operator,  Interactive Supercomputing, Julia (programming language)cocreator,  high performance computing,  numerical computing"
+Eich,2,"JavaScript, Mozilla"
+Emeagwali,1,supercomputing
+Emerson,1,model checking
+Engelbart,3,"tiledwindows, hypertext, computer mouse"
+Engelhardt,3,"latent variable models, genomics, quantitative trait locus(QTL)"
+Ershov,6,"languagesALPHA, Rapira; first Soviettime-sharingsystemAIST-0,  electronic publishing systemRUBIN, multiprocessingworkstationMRAMOR, IFIP WG 2.1member, Aesthetics and the Human Factor in Programming"
+Etzioni,2,"MetaCrawler, Netbot"
+Evans,1,computer graphics
+Feigenbaum,1,intelligence
+Felten,1,computer security
+Flowers,1,Colossus computer
+Floyd,1,NP-completeness
+Floyd,1,Internet congestion control
+Fogel,1,evolutionary programming
+Fayed,2,"PWCT, Ring"
+Fischer,1,computational theoretical physics
+Fukushima,5,"neocognitron, artificial neural networks, convolutional neural networkarchitecture, unsupervised learning, deep learning"
+Gabriel,6,"Maclisp, Common Lisp, Worse is Better, League for Programming Freedom, Lucid Inc., XEmacs"
+Galler,1,MAD (programming language)
+Garey,1,NP-completeness
+Gates,1,cofounder ofMicrosoft
+Gelobter,2,"was the Chief Digital Service Officer for the U.S. Department of Education,  founder of teQuitable"
+Gibbons,5,"generic programming, functional programming, formal methods, computational biology, bioinformatics"
+Gilbert,1,human-centered computing
+Giles,1,CiteSeer
+Ginsburg,4,"formal languages, automata theory, AFL theory, database theory"
+Gold,1,Language identification in the limit
+Goldberg,1,Smalltalk
+Goldberg,2,"algorithms, algorithm engineering"
+Goldberg,2,"cryptographer, off-the-record messaging"
+Goldreich,2,"cryptography, computational complexity theory"
+Goldwasser,2,"cryptography, computational complexity theory"
+Golub,1,Matrixcomputation
+Golumbic,1,algorithmic graph theory
+Gonnet,1,cofounder ofWaterloo MapleInc.
+Goodfellow,1,machine learning
+Gosling,2,"Network extensible Window System (NeWS), Java"
+Graham,3,"Viaweb, On Lisp, Arc"
+Graham,4,"programming language compilers (GAT, Michigan Algorithm Decoder(MAD)),  virtual memory architecture, Multics"
+Graham,2,"compilers,  programming environments"
+Gray,1,database
+Greibach,2,"Greibach normal form, Abstract family of languages(AFL) theory"
+Gries,4,"The Science of Programming, Interference freedom,  Member Emeritus,  IFIP WG 2.3 on Programming Methodology"
+Griswold,1,SNOBOL
+Gropp,3,"Message Passing Interface, Portable,  Extensible Toolkit for Scientific Computation(PETSc)"
+Gruber,1,ontology engineering
+Guberman,1,handwriting recognition
+Guha,4,"Resource Description Framework(RDF), Netscape, RSS, Epinions"
+Gunther,2,"computer performanceanalysis, capacity planning"
+Gutknecht,3,"withNiklaus Wirth:Lilithcomputer;Modula-2, Oberon, Zonnonprogramming languages;Oberon operating system"
+Guy,4,"Phoenix,  work onnumber theory, computer algebra,  higher dimensionpolyhedratheory; withJohn Horton Conway"
+Griesemer,1,Golanguage
+Habermann,10,"work onoperating systems, software engineering, inter-process communication,  process synchronization, deadlockavoidance, software verification, programming languages:ALGOL 60, BLISS, Pascal, Ada"
+Hahn,1,mechanicalcalculator
+Hall,1,Apollo Guidance Computer
+Hamilton,2,"ultra-reliable software design, Apollo programspace missions"
+Hamming,2,"Hamming code,  founder of theAssociation for Computing Machinery"
+Han,1,data mining
+Harary,1,graph theory
+Harris,4,"machine translationresearch,  Canada's firstcomputer-assisted translationcourse,  natural translation theory, community interpreting(Critical Link)"
+Hartmanis,1,computational complexity theory
+Hatton,1,software failureand vulnerabilities
+Jifeng,1,provably correctsystems
+Hehner,4,"predicative programming, formal methods, quote notation, ALGOL"
+Hellman,1,encryption
+Heiser,6,"operating systemteaching,  research,  commercialising, Open Kernel Labs, OKL4,  Wombat"
+Hendler,1,Semantic Web
+Hennessy,1,computer architecture
+Hightower,2,"open source,  cloud computing"
+Hillis,1,Connection Machine
+Ho,2,"artificial intelligence, machine learning"
+Hoare,3,"logic,  rigor, communicating sequential processes(CSP)"
+Holberton,2,"ENIACprogrammer,  developed the firstSort Merge Generator"
+Holland,1,genetic algorithms
+Holzmann,2,"software verification,  logic model checking (SPIN)"
+Hopcroft,1,compilers
+Horvitz,1,artificial intelligence
+Hughes,1,structuring computations witharrows;QuickCheckrandomized program testing framework;Haskelllanguage design
+Hui,1,co-createdJlanguage
+Ichbiah,1,Ada
+Ierusalimschy,1,Lua (programming language)
+Ingalls,3,"Smalltalk, BitBlt, Lively Kernel"
+Iverson,2,"APL, J"
+Jacobson,2,"Unified Modeling Language, Object Management Group"
+Jones,1,Vienna Development Method(VDM)
+Jurafsky,1,natural language processing
+Kahan,1,numerical analysis
+Kahn,1,TCP/IP
+Kak,1,digital image processing
+Kamp,3,"inventedGBDE,  FreeBSD Jails, Varnish cache"
+Karp,1,NP-completeness
+Karmarkar,1,Karmarkar's algorithm
+Karpinski,1,NP optimization problems
+Kaehler,3,"Smalltalk, Squeak, HyperCard"
+Kay,3,"Dynabook, Smalltalk,  overlappingwindows"
+Kayal,1,AKS primality test
+Kellis,1,computational biology
+Kemeny,1,the languageBASIC
+Kennedy,1,compiling for parallel and vector machines
+Kesselman,1,grid computing
+Kiczales,3,"CLOS, reflection, aspect-oriented programming"
+Kirstein,1,Internet
+Kleene,2,"Kleene closure, recursion theory"
+Klein,2,"Natural language processing, Machine translation"
+Kleinrock,4,"ARPANET, queueing theory, packet switching, hierarchical routing"
+Knuth,4,"The Art of Computer Programming, MIX/MMIX, TeX, literate programming"
+Koenig,1,C++
+Koller,2,"Artificial intelligence, bayesian network"
+Kolmogorov,1,algorithmic complexity theory
+Kolodner,1,case-based reasoning
+Korn,1,KornShell
+Koster,1,ALGOL 68
+Kowalski,1,logic programming
+Koza,1,genetic programming
+Krogstie,1,SEQUAL framework
+Kruskal,1,Kruskal's algorithm
+Kruusmaa,1,underwater roboticist
+Lamport,2,"algorithmsfordistributed computing, LaTeX"
+Lampson,4,"SDS 940,  founding memberXerox PARC, Xerox Alto, Turing Award"
+Landin,9,"ISWIM, J operator, SECD machine, off-side rule, syntactic sugar, ALGOL, IFIP WG 2.1member,  advancedlambda calculusto modelprogramming languages(aidedfunctional programming), denotational semantics"
+Lane,3,"Independent JPEG Group, PostgreSQL, Portable Network Graphics(PNG)"
+Lattner,1,creator ofSwift (programming language)andLLVMcompiler infrastructure
+Leiserson,3,"cache-oblivious algorithms,  provably goodwork-stealing,  coauthor ofIntroduction to Algorithms"
+Lenat,2,"artificial intelligence, Cyc"
+Lerdorf,1,PHP
+Levchin,1,Gausebeck–Levchin testandPayPal
+Levin,1,computational complexity theory
+Leyton-Brown,1,artificial intelligence
+Liedtke,3,"microkerneloperating systemsEumel, L3, L4"
+Lions,2,"Lions' Commentary on UNIX 6th Edition,  with Source Code(Lions Book)"
+Lindsey,2,"IFIP WG 2.1member, Revised Report onALGOL 68"
+Lipton,1,computational complexity theory
+Liskov,1,programming languages
+Liu,12,"programming languages, algorithms,  program design, program optimization, softwaresystems,  optimizing,  analysis,  and transformations,  intelligent systems, distributed computing, computer security, IFIP WG 2.1member"
+Long,2,"computer data storage, computer security"
+Lopez,1,broadening participation in computing
+Lovelace,1,first programmer
+Luckham,5,"Lisp, Automated theorem proving,  StanfordPascalVerifier, Complex event processing, Rational Softwarecofounder (Adacompiler)"
+Thalmann,2,"computer graphics, virtual actor"
+Marlow,3,"Haskelldeveloper,  book author; co-developer:Glasgow Haskell Compiler,  Haxl remote data accesslibrary"
+Manna,1,fuzzy logic
+Martin,1,information engineering
+Matiyasevich,1,solvingHilbert's tenth problem
+Matsumoto,1,Ruby (programming language)
+McAuley,3,"ubiquitous computing, computer architecture,  networking"
+McCarthy,4,"Lisp (programming language), ALGOL, IFIP WG 2.1member, artificial intelligence"
+McIlroy,3,"macros,  pipes, Unix philosophy"
+McKinstry,2,"artificial intelligence, Mindpixel"
+McKusick,2,"BSD, Berkeley Fast File System"
+Meertens,3,"ALGOL 68, IFIP WG 2.1member, ABC (programming language)"
+Mehlhorn,3,"algorithms,  data structures, LEDA"
+Metcalf,2,"entrepreneur,  engineer and mathematician"
+Meyer,1,Eiffel (programming language)
+Micali,1,cryptography
+Milner,1,ML (programming language)
+Minker,1,database logic
+Minsky,3,"artificial intelligence, perceptrons, Society of Mind"
+Mitchell,4,"WATFORcompiler, Mesa (programming language), Spring (operating system), ARM architecture"
+Mithal,5,"formal verificationof largedigital systems,  developing dynamicdataflow architectures, parallel computingprogramming languages(Id,  pH),  compiling on parallel machines"
+Mockapetris,1,Domain Name System(DNS)
+Moler,2,"numerical analysis, MATLAB"
+Moller,1,concurrency theory
+Moon,2,"inventor, Apple Inc."
+Moore,1,Forthlanguage
+Moore,1,Moore machine
+Moore,1,Moore's law
+Moore,2,"string searching, ACL2 theorem prover"
+Moore,3,"co-developedAPL\360,  createdIPSANET,  co-foundedI. P. Sharp Associates"
+Moravec,1,robotics
+Morgan,1,formal methods
+Morris,1,Morris worm
+Moses,1,Macsyma
+Motwani,1,randomized algorithm
+Mukhanov,2,"quantum computingdeveloper,  co-founder and CTO ofSeeQC"
+Muggleton,1,Inductive Logic Programming
+Mycroft,1,programming languages
+Myers,1,human-computer interaction
+Nadin,1,anticipation research
+Nagao,3,"machine translation,  natural language processing,  digital library"
+Nake,1,pioneered computer arts
+Nardi,1,human–computer interaction
+Needham,1,computer security
+Nell,1,Generalised Enterprise Reference Architecture and Methodology(GERAM)
+Neumann,2,"massively parallel autonomous cellular processor,  software engineering research"
+Newell,2,"artificial intelligence, Computer Structures"
+Newman,2,"Colossus computer,  MADM"
+Ng,3,"artificial intelligence, machine learning, robotics"
+Nijssen,1,Nijssen's Information Analysis Methodology (NIAM)object–role modeling
+Nipkow,1,proof assistance
+Nivat,4,"theoretical computer science, Theoretical Computer Sciencejournal, ALGOL, IFIP WG 2.1member"
+Nkambule,4,"Fintech, artificial intelligence, machine learning, robotics"
+Noe,1,computerized banking
+Nordin,3,"artificial intelligence, genetic programming, evolutionary robotics"
+Norman,2,"user interfaces, usability"
+Norvig,2,"artificial intelligence,  Director of Research at Google"
+Novacky,3,"University of Pittsburgh: assistant department chair,  senior lecturer in computer science,  assistant dean of CAS for undergraduate studies"
+Nygaard,2,"Simula, object-oriented programming"
+Odersky,1,Scalaprogramming language
+Olle,1,Ferranti Mercury
+Ousterhout,1,Tclprogramming language
+Overmars,1,video gameprogramming
+Owicki,1,interference freedom
+Page,1,co-founder ofGoogle
+Parnas,2,"information hiding, modular programming"
+Patil,1,former Chief Data Scientist of United States
+Patt,2,"Instruction-level parallelism,  speculative architectures"
+Patterson,4,"reduced instruction set computer(RISC), RISC-V,  redundant arrays of inexpensive disks (RAID),  BerkeleyNetwork of Workstations(NOW)"
+Paterson,2,"algorithms, analysis of algorithms(complexity)"
+Paulson,1,ML
+Pearl,2,"artificial intelligence, search algorithms"
+Perlis,1,Programming Pearls
+Perlman,1,spanning tree protocol
+Perotto,2,"computer designer atOlivetti,  designer of theProgramma 101programmable calculator"
+Jones,3,"functional programming, Glasgow Haskell Compiler, C--"
+Pham,5,"data,  artificial intelligence,  civic technology,  healthcare,  ethics"
+Pieraccini,2,"speech technologist,  engineering director at Google"
+Pnueli,1,temporal logic
+Poel,7,"computer graphics,  robotics,  geographic information systems,  imaging,  multimedia,  virtual environments,  games"
+Post,1,mathematics
+Postel,1,Internet
+Preparata,4,"computer engineering, computational geometry, parallel algorithms, computational biology"
+Press,1,numerical algorithms
+Rozenberg,3,"natural computing, automata theory, graph transformationsandconcurrent systems"
+Rabin,1,nondeterministic machine
+Radev,2,"natural language processing, information retrieval"
+Raman,2,"accessibility, Emacspeak"
+Randell,4,"ALGOL 60,  softwarefault tolerance, dependability,  pre-1950history of computing hardware"
+Ravn,1,Duration Calculus
+Reddy,1,artificial intelligence
+Reenskaug,1,model–view–controller(MVC) software architecture pattern
+Reynolds,10,"continuations,  definitional interpreters, defunctionalization,  Forsythe,  Gedanken language, intersection types, polymorphic lambda calculus,  relationalparametricity, separation logic, ALGOL"
+Reynolds,1,Internet
+Riet,2,"Editor:Europe of Data and Knowledge Engineering,  COLOR-X event modeling language"
+Richards,1,medical informatics
+Richards,1,BCPL
+Ritchie,2,"C (programming language), Unix"
+Rivest,3,"RSA, MD5, RC4"
+Robinson,1,formal methods
+Rolland,2,"REMORA methodology,  meta modelling"
+Romero,1,codevelopedDoom
+Ross,4,"Automatically Programmed Tools (APT), Computer-aided design, structured analysis and design technique, ALGOL X"
+Rossum,1,Python (programming language)
+Rothman,1,UEFI
+Royce,1,waterfall model
+Rucker,3,"mathematician,  writer,  educator"
+Rudich,2,"complexity theory,  cryptography"
+Rumbaugh,2,"Unified Modeling Language, Object Management Group"
+Salton,1,information retrieval
+Sammet,1,programming languages
+Sammut,1,artificial intelligenceresearcher
+Sassenrath,4,"operating systems, programming languages, Amiga, REBOL"
+Satyanarayanan,4,"file systems, distributed systems, mobile computing, pervasive computing"
+Savitch,4,"discovery of complexity classNL, Savitch's theorem, natural language processing, mathematical linguistics"
+Schickard,1,one of the firstcalculating machines
+Schmidhuber,7,"artificial intelligence,  deep learning,  artificial neural networks, recurrent neural networks, Gödel machine,  artificial curiosity, meta-learning"
+Schneider,2,"formal methods,  security"
+Schneier,2,"cryptography,  security"
+Schneider,1,concurrent and distributed computing
+human,1,computer interaction
+Schroeder,2,"command-line shell,  e-mail"
+Scott,1,domain theory
+Scott,3,"programming languages, algorithms, distributed computing"
+Sedgewick,2,"algorithms,  data structures"
+Sethi,2,"compilers,  2ndDragon Book"
+Shamir,2,"RSA,  cryptanalysis"
+Shannon,1,information theory
+Shaw,3,"computational finance,  computational biochemistry,  parallel architectures"
+Shaw,2,"systems programmer,  artificial intelligence"
+Shenker,1,networking
+Shneiderman,2,"human–computer interaction, information visualization"
+Shortliffe,1,MYCIN(medical diagnostic expert system)
+Siewiorek,7,"electronic design automation, reliability computing, context awaremobile computing, wearable computing, computer-aided design, rapid prototyping, fault tolerance"
+Sifakis,1,model checking
+Simon,1,artificial intelligence
+Singh,4,"multiagent systems, software engineering,  artificial intelligence, social networks"
+Sitaraman,1,helped buildAkamai's high performance network
+Sleator,2,"splay tree, amortized analysis"
+Sloman,1,artificial intelligence and cognitive science
+Smith,2,"reflection (computer science),  3lisp"
+Smith,6,"inventedinterface icons, programming by demonstration,  developedgraphical user interface, Xerox Star;Xerox PARCresearcher,  cofounded Dest Systems,  Cognition"
+Spewak,1,enterprise architecture planning
+Srihari,3,"information retrieval,  text analytics,  multilingual text mining"
+Srihari,4,"pattern recognition, machine learning, computational criminology, CEDAR-FOX"
+Stachowiak,3,"GNOME, Safari, WebKit"
+Stearns,1,computational complexity theory
+Sterling,1,creator ofBeowulf clusters
+Stepanov,1,generic programming
+Stockmeyer,2,"computational complexity,  distributed computing"
+Stolfo,2,"computer security,  machine learning"
+Stonebraker,1,relational databasepractice and theory
+Storaasli,3,"finite element machine, linear algebra, high performance computing"
+Strachey,1,denotational semantics
+Strassen,3,"matrix multiplication, integer multiplication, Solovay–Strassen primality test"
+Stroustrup,1,C++
+Sudan,2,"computational complexity theory, coding theory"
+Sussman,1,Scheme
+Sutherland,2,"graphics,  Internet"
+Sutherland,1,graphics
+Sweeney,1,Data privacy and algorithmic fairness
+Szegedy,2,"complexity theory, quantum computing"
+Tabriz,2,"Google Director of Engineering,  also known as the Security Princess"
+Tamassia,2,"computational geometry, computer security"
+Tanenbaum,2,"operating systems, MINIX"
+Tate,3,"Artificial IntelligenceApplications, AI Planning, Virtual Worlds"
+Thalheim,1,conceptual modelling foundation
+Tarjan,1,splay tree
+Tchou,3,"Italian engineer,  of Chinese descent,  leader ofOlivetti Eleaproject"
+Teng,1,analysis of algorithms
+Tesler,3,"human–computer interaction,  graphical user interface,  Apple Macintosh"
+Tevanian,3,"Mach kernel team,  NeXT,  Mac OS X"
+Thacker,2,"Xerox Alto, Microsoft Research"
+Thalmann,2,"computer graphics, virtual actor"
+Thompson,1,Unix
+Thrun,2,"AI researcher,  pioneered autonomous driving"
+Tichy,1,RCS
+Toda,2,"computation complexity,  recipient of 1998Gödel Prize"
+Torvalds,2,"Linuxkernel, Git"
+Toussaint,2,"computational geometry,  computational music theory"
+Tozer,1,business information systems
+Traub,1,computational complexity of scientific problems
+Tucker,1,computability theory
+Tukey,3,"founder ofFFT algorithm, box plot, exploratory data analysisand Coining the term 'bit'"
+Turner,4,"SASL, Kent Recursive Calculator, Miranda, IFIP WG 2.1member"
+Turoff,1,computer-mediated communication
+Ullman,3,"compilers,  databases,  complexity theory"
+Valiant,2,"computational complexity theory, computational learning theory"
+Vapnik,2,"pattern recognition, computational learning theory"
+Vardi,1,professor of computer science atRice University
+Vauquois,3,"pioneeredcomputer scienceinFrance, machine translation(MT) theory and practice includingVauquois triangle, ALGOL 60"
+Vernadat,1,enterprise modeling
+Veryard,1,enterprise modeling
+Vilkomir,2,"software testing, RC/DC"
+Vitanyi,4,"Kolmogorov complexity, Information distance, Normalized compression distance, Normalized Google distance"
+Viterbi,1,Viterbi algorithm
+Vitter,4,"external memoryalgorithms, compressed data structures, data compression, databases"
+Vixie,6,"DNS, BIND, PAIX, Internet Software Consortium,  MAPS, DNSBL"
+Wada,5,"ALGOL N, IFIP WG 2.1member, Japanese Industrial Standards(JIS) X 0208,  0212, Happy Hacking Keyboard"
+Wagner,2,"security, cryptography"
+Warmuth,1,computational learning theory
+Warren,4,"AI, logic programming, Prolog, Warren Abstract Machine(WAM)"
+Warwick,1,artificial intelligence
+Wadler,5,"functional programming, Haskell, Monad, Java, logic"
+Wegner,2,"object-oriented programming,  interaction (computer science)"
+Wegstein,5,"ALGOL 58, ALGOL 60, IFIP WG 2.1member, data processingtechnical standards, fingerprintanalysis"
+Weinberger,2,"programming language design,  the 'w' inAWK"
+Weiser,1,ubiquitous computing
+Weizenbaum,2,"artificial intelligence, ELIZA"
+Wheeler,2,"EDSAC,  subroutines"
+Westervelt,5,"use of computers in engineering education,  conversational use of computers, Michigan Terminal System(MTS), ARPANET,  distance learning"
+Whittaker,3,"human computer interaction,  computer support for cooperative work, social media"
+Widom,1,nontraditional data management
+Wiederhold,1,database management systems
+Wiener,1,Cybernetics
+Wijngaarden,3,"Dutch pioneer; ARRA, ALGOL, IFIP WG 2.1member"
+Wilkes,2,"LINCdeveloper,  assembler-linker designer"
+Wilkes,2,"microprogramming, EDSAC"
+Wilks,2,"computational linguistics,  artificial intelligence"
+Wilkinson,1,numerical analysis
+Wilson,1,ARM architecture
+Winograd,1,Coppersmith–Winograd algorithm
+Winograd,2,"artificial intelligence, SHRDLU"
+Winston,1,artificial intelligence
+Wirth,5,"ALGOL W, IFIP WG 2.1member, Pascal, Modula, Oberon"
+Wiseman,1,computer graphics
+Wisnosky,2,"Integrated Computer-Aided Manufacturing(ICAM), IDEF"
+Wolfram,1,Mathematica
+Woodger,3,"Pilot ACE, ALGOL 60, Ada (programming language)"
+Woodward,5,"ambiguity function, sinc function, comb operator,  rep operator, ALGOL 68-R"
+Worsley,1,wrote the first PhD dissertation involving modern computers; was one of the people who wroteTranscode
+Wozniak,1,engineered first generation personal computers at Apple Computer
+Wu,1,computer networks
+Wulf,3,"BLISSsystem programming language+optimizing compiler, Hydraoperating system, Tartan Laboratories"
+Yoneda,4,"Yoneda lemma, Yoneda product, ALGOL, IFIP WG 2.1member"
+Yourdon,1,Structured Systems Analysis and Design Method
+Zadeh,1,fuzzy logic
+Zantema,1,termination analysis
+Zaman,1,pseudo-random numbergenerator
+Zedan,1,formal methodsandreal-time systems
+Zilberstein,4,"artificial intelligence, anytime algorithms, automated planning,  and decentralizedPOMDPs"
+Zimmerman,1,James M. Beall Professor of Mathematics and Computer Science atGoucher College
+Zuse,1,German pioneer of hardware and software
